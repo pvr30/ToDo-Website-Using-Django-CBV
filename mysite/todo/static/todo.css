@@ -1,0 +1,30 @@
+
+/*
+h1{
+    font-size: 100px;
+}
+*/
+
+.task{
+    width: 1300px;
+    height: 225px;
+    border: 2px solid black;
+}
+
+.task-list{
+    margin-left: 25px;
+}
+
+
+.date{
+    text-align: center;
+    margin-left: 900px;
+    padding-top: 0px;
+}
+
+.right-item{
+    padding-left: 1000px;
+    text-align: center;
+}
+
+
